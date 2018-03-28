@@ -1,0 +1,16 @@
+<div class="footer">
+  <div class="footer-line">{{ site.title }}</div>
+  <a class="footer-line" href="mailto:resilience.residence@silo.org.br" target="_blank">resilience.residence@silo.org.br</a>
+  <div class="footer-line">
+    {% include social-icons.html %}
+  </div>
+</div>
+
+{% if page.permalink == '/' %}
+  <div class="footer">
+    <div class="footer-line">Apoio/Support</div>
+    <a href="https://www.fordfoundation.org/" target="_blank">
+      <div class="footer-line parceira-logo" style="background-image: url('{{ site.baseurl }}/media/images/logos/ford_black.svg');"></div>
+    </a>
+  </div>
+{% endif %}
