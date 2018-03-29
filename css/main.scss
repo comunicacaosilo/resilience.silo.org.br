@@ -426,6 +426,28 @@ a.footer-line {
   font-weight: 200;
 }
 
+.footer-logos {
+  display: flex;
+  flex-direction: column;
+
+  @include media-query(DESKTOP) {
+    flex-direction: row;
+    flex-wrap: nowrap;
+  }
+}
+
+.footer-logo-container {
+  width: 100%;
+}
+
+.footer-logo-container + .footer-logo-container {
+  margin-top: 32px;
+
+  @include media-query(DESKTOP) {
+    margin: 0;
+  }
+}
+
 i.fa-1_5x {
   font-size: 1.5em;
 }
@@ -441,6 +463,10 @@ i.fa-1_5x {
   &:hover {
     filter: grayscale(0%);
   }
+}
+
+.silo-logo {
+  height: 100px;
 }
 
 .share-container {

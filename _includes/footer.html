@@ -7,10 +7,19 @@
 </div>
 
 {% if page.permalink == '/' %}
-  <div class="footer">
-    <div class="footer-line">Apoio/Support</div>
-    <a href="https://www.fordfoundation.org/" target="_blank">
-      <div class="footer-line parceira-logo" style="background-image: url('{{ site.baseurl }}/media/images/logos/ford_black.svg');"></div>
-    </a>
+  <div class="footer footer-logos">
+    <div class="footer-logo-container">
+      <div class="footer-line">Realização</div>
+      <a href="https://silo.org.br/" target="_blank">
+        <div class="footer-line parceira-logo silo-logo" style="background-image: url('{{ site.baseurl }}/media/images/logos/silo.svg');"></div>
+      </a>
+    </div>
+
+    <div class="footer-logo-container">
+      <div class="footer-line">Apoio/Support</div>
+      <a href="https://www.fordfoundation.org/" target="_blank">
+        <div class="footer-line parceira-logo" style="background-image: url('{{ site.baseurl }}/media/images/logos/ford_black.svg');"></div>
+      </a>
+    </div>
   </div>
 {% endif %}
