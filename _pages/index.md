@@ -1,5 +1,5 @@
 ---
 layout: home
-title: Resilience Residence
+title: "Resiliência: Residência Artística"
 permalink: /
 ---
