@@ -1,4 +1,4 @@
 ---
 title: 'Edgar Calel'
-cover: media/images/cover.jpg
+cover: media/images/resilience_H.jpg
 ---

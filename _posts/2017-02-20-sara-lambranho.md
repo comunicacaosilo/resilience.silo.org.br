@@ -1,6 +1,6 @@
 ---
 title: 'Sara Lambranho'
-cover: media/images/cover.jpg
+cover: media/images/2017/sara00.jpg
 ---
 ## entre dois
 

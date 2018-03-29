@@ -1,6 +1,6 @@
 ---
 title: 'Violeta Pavão'
-cover: media/images/cover.jpg
+cover: media/images/2017/violeta01.jpg
 ---
 violeta é bicho-gente-matéria-cor-energia em caminhada que tem hora que cala, tem hora que fala, tem vez que chora, tem vez que caga ; tem tentado é ouvir mais e falar menos. mas nao pisa no calo, nao, buceta radioativa ataca.
 
@@ -35,6 +35,7 @@ VALE DO PARAÍBA, NOVA ABC + AMAN academia militar dasagulhas negras, PRA ENRIJE
 
 NEM TUDO NASCE DE NOVO. MAS ATÉ AGORA: RESILIÊNCIA. ESSA TERRA PRECISA É OLHAR PRA TRÁS PRA SEGUIR EM FRENTE. ESCUTA, A SABEDORIA NÃO É DE HOJE NÃO. NEM ENSINA NA ESCOLA . PRESTA ATENÇÃO ONDE TÁ PISANDO, ELA FALOU. TEM MAIS CAMADA PRA BAIXO E PRA TRÁS. CHORA CHÃO. REFAZ PRA RESIDIR. O QUE FICA E O QUE DEIXA FLUIR?
 
+![]({{ site.baseurl }}/media/images/2017/violeta01.jpg)
 
 **POST III**
 

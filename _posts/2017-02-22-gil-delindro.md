@@ -1,6 +1,6 @@
 ---
 title: 'Gil Delindro'
-cover: media/images/cover.jpg
+cover: media/images/2017/gil05.jpg
 ---
 Gil Delindro(1989) is a unique presence among a new generation of Sound and Media Arts. He has distinguished himself by the use and research of organic elements, ephemeral events and intangible processes in Nature. His cross-border practice is based upon film, installation, sound performance and site specific/field research, facing themes such as time, animism, decay and geology. 
 
