@@ -277,8 +277,47 @@ a {
   }
 }
 
-.home-residents {
+.home-residents-menu {
   width: 100%;
+  margin: 32px 0;
+
+  .menu-section-container + .menu-section-container {
+    margin-top: 20px;
+  }
+
+  .menu-section {
+    border: none;
+  }
+
+  .menu-section-title {
+    font-size: 1rem;
+    font-weight: 900;
+  }
+
+  ul {
+    display: flex;
+    flex-direction: column;
+    border-top: 2px #000 solid;
+    margin: 0;
+    margin-left: 48px;
+    padding: 0;
+
+    @include media-query(DESKTOP) {
+      flex-direction: row;
+      flex-wrap: nowrap;
+      justify-content: space-between;
+    }
+  }
+
+  li {
+    list-style-type: none;
+    margin: 0 10px;
+    padding: 0;
+    text-align: left;
+    @include media-query(DESKTOP) {
+      text-align: center;
+    }
+  }
 }
 
 .post-logo {
