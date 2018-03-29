@@ -105,68 +105,49 @@ a {
 
 .menu-section {
   border-top: 2px #000 solid;
-  padding: 10px 0;
   li a {
     text-transform: uppercase;
+    text-decoration: none;
     font: normal $MENU-ITEM-SIZE $FONT-MENU;
     line-height: 1.7;
     vertical-align: middle;
   }
 }
 
-.menu-logo {
-  height: 100%;
-  min-height: 90px;
-  background-image: url("{{site.baseurl}}/media/images/logos/silo.svg");
-  background-repeat: no-repeat;
-  background-size: contain;
-  background-position: center;
-}
-
-#menu {
-  padding: 30px 0;
-  box-sizing: border-box;
-  background-color: $MENU-BACKGROUND-COLOR;
-  width: 100%;
-  margin: 0 auto;
+.menu {
   display: none;
+  flex-direction: column;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  margin: 0;
+  padding-top: 1em;
 
   @include media-query(DESKTOP) {
-    width: 85%;
     display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    padding-right: 5%;
   }
 
-  .menu-title {
-    width: 25%;
-  }
-
-  .menu-container {
+  .menu-section-container {
     display: flex;
     flex-direction: row;
-    justify-content: flex-start;
-    padding: 0 2vw;
+    flex-wrap: nowrap;
   }
 
   .menu-section {
-    width: 20%;
-    max-width: 200px;
-    min-width: 120px;
-  }
-  .menu-section+.menu-section {
-    margin-left: 10%;
+    width: 170px;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 8px;
+    -webkit-margin-end: 0px;
   }
 }
 
-#menu-mobile ul, #menu ul {
+#menu-mobile ul, .menu ul {
   padding: 0;
   margin: 0;
   list-style-type: none;
 }
 
-.menu-item {
+.social-item {
   padding: 0;
   font-size: $MENU-ITEM-SIZE;
   font-weight: normal;
@@ -198,14 +179,6 @@ a {
   }
 }
 
-.post-title {
-  font-family: $FONT-TITLE;
-  font-weight: bold;
-  line-height: 1;
-  margin-bottom: 8px;
-  text-align: left;
-}
-
 .main-div {
   display: block;
   width: 80%;
@@ -216,18 +189,9 @@ a {
     width: 80%;
     margin: $RESPONSIVE-SPACING auto;
   }
-
-  content {
-    img {
-      display: block;
-      margin: 0 auto;
-      max-width: 100%;
-      border-radius: 5px;
-    }
-  }
 }
 
-.home-container {
+.content-container {
   width: 100%;
   margin: 0 auto;
 }
@@ -295,28 +259,52 @@ a {
   width: 100%;
 }
 
-.content-text {
-  width: 100%;
+.post-logo {
+  position: relative;
+  width: 310px;
+  height: 120px;
   box-sizing: border-box;
-  margin: 0 auto;
-  padding: 0 20px;
-  font: 200 $TEXT-SIZE $FONT-TEXT;
-  line-height: 1.6;
-  word-spacing: 0.1rem;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background-image: url('{{ site.baseurl }}/media/images/resilience_H.png');
+  background-position: left center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.post-title {
+  position: absolute;
+  font: 900 $TITLE-SIZE $FONT-TITLE;
+  color: $MENU-TEXT-COLOR;
+  line-height: 1;
   text-align: left;
+  text-transform: uppercase;
+  bottom: 16px;
+  right: 0;
+}
 
-  @include media-query(DESKTOP) {
-    max-width: 700px;
-    text-align: justify;
-  }
+.post-content-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  padding: 0;
+  margin: 32px 0 0;
+}
 
+.post-content {
+  padding-left: 32px;
+  text-align: justify;
   a {
     text-decoration: underline;
     font-weight: bold;
   }
+
   img {
     display: block;
-    width: 100%;
+    margin: 0 auto;
+    max-width: 100%;
+    border-radius: 5px;
   }
 }
 
@@ -341,28 +329,6 @@ i.fa-1_5x {
   font-size: 1.5em;
 }
 
-.parceiras-container {
-  width: 100%;
-  margin-top: 15px;
-  display: flex;
-  flex-direction: column;
-  flex-wrap: wrap;
-  justify-content: space-between;
-
-  a {
-    width: 100%;
-    margin: 12px 0;
-  }
-
-  @include media-query(DESKTOP) {
-    flex-direction: row;
-    a {
-      width: 30%;
-      margin: 0 1% 30px;
-    }
-  }
-}
-
 .parceira-logo {
   height: 48px;
   background-repeat: no-repeat;
@@ -378,12 +344,12 @@ i.fa-1_5x {
 
 .share-container {
   margin-top: 35px;
-  h3.share-title {
-    margin-bottom: 4px;
-  }
   .share-icon-container {
     a {
       text-decoration: none;
+    }
+    a + a {
+      margin-left: 6px;
     }
   }
 }

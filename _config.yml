@@ -29,16 +29,16 @@ defaults:
 
 # Data
 social:
-  facebook: "https://www.facebook.com/silo.arte.latitude.rural"
+  facebook: ""
   instagram: "https://www.instagram.com/silo.arte.e.latitude.rural"
-  github: "https://github.com/associacaosilo"
+  github: ""
   twitter: "https://twitter.com/SiloLatitude"
   youtube: ""
   vimeo: ""
   soundcloud: ""
   tumblr: ""
   pinterest: ""
-  envelope-o: "mailto:contato@silo.org.br"
+  envelope-o: "mailto:resilience.residence@silo.org.br"
 twitter_user: "SiloLatitude"
 
 # prose.io
