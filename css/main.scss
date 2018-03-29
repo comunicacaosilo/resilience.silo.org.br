@@ -243,9 +243,9 @@ a {
   font: 900 $TEXT-SIZE $FONT-TEXT;
   letter-spacing: -1px;
   text-transform: uppercase;
+  text-decoration: none;
   color: $MENU-TEXT-COLOR;
   cursor: pointer;
-  text-decoration: none;
   transition: color $TRANSITION-PERIOD linear;
 
   &:visited {
