@@ -56,6 +56,7 @@ prose:
     - js
     - CNAME
     - TODO.md
+    - publish.sh
     - media/favicons
     - media/swipebox
   metadata:
