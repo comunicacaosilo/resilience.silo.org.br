@@ -292,12 +292,13 @@ a {
   .menu-section-title {
     font-size: 1rem;
     font-weight: 900;
+    color: $MENU-TEXT-COLOR;
   }
 
   ul {
     display: flex;
     flex-direction: column;
-    border-top: 2px #000 solid;
+    border-top: 2px $MENU-TEXT-COLOR solid;
     margin: 0;
     margin-left: 48px;
     padding: 0;
@@ -314,6 +315,7 @@ a {
     margin: 0 10px;
     padding: 0;
     text-align: left;
+
     @include media-query(DESKTOP) {
       text-align: center;
     }
