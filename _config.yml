@@ -59,6 +59,7 @@ prose:
     - publish.sh
     - media/favicons
     - media/swipebox
+    - media/images/logos
   metadata:
     _posts:
       - name: "layout"
