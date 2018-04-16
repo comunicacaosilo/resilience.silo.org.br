@@ -1,5 +1,6 @@
 ---
 title: 'Aloïs Yang'
+cover: media/images/2018/aloys00.jpg
 ---
 **"Micro Loop Macro Cycle - in 13:15s & 1145 mb"**
 
