@@ -5,7 +5,7 @@ cover: media/images/2018/aloys00.jpg
 **"Micro Loop Macro Cycle - in 13:15s & 1145 mb"**
 
 <div class="video-wrapper video-wrapper-16x9">
-  <iframe width="800" height="450" src="https://www.youtube.com/embed/rtieN65SvAc?rel=0&modestbranding=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
+  <iframe width="800" height="450" src="https://www.youtube.com/embed/41uyLnsP0Ec?rel=0&modestbranding=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
 “Micro Loop Macro Cycle” is a series of installation, video, and performance, that investigates environmental cycle system through studies of different states of water. Sound is the primary material of this project, also as the communicational medium that reveals comprehensive sonic information about the dynamic states of present time and space. 
