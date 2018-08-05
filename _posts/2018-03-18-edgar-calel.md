@@ -12,3 +12,6 @@ No lugar onde moro, todas as manhãs quando acordo, encontro meus parentes, em 
 
 ### kit kit kit
 {% include swipebox.html prefix="2018/edgar_kit" %}
+
+### Q´aq´oj a molon k´a (reunidos estamos alrededor del fuego)
+{% include swipebox.html prefix="2018/edgar_fuego" %}
