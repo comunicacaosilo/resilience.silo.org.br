@@ -17,4 +17,3 @@ The site specific installation consists of leaves of banana trees, palm trees, b
 Image credits: Drawings by Anaïs Senli (Untitled, 2018), printed and photographed installation view by Anaïs Senli (Peya, 2018), photos and documentation by Lena Johanna Reisner, Leonardo Avelino and Edgar Calel.
 
 {% include swipebox.html prefix="2018/lena_anais" %}
-
