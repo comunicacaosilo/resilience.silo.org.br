@@ -1,6 +1,6 @@
 <div class="footer">
   <div class="footer-line">{{ site.title }}</div>
-  <a class="footer-line" href="mailto:resilience.residence@silo.org.br" target="_blank">resilience.residence@silo.org.br</a>
+  <a class="footer-line" href="mailto:contato@silo.org.br" target="_blank">contato@silo.org.br</a>
   <div class="footer-line">
     {% include social-icons.html %}
   </div>
@@ -16,9 +16,20 @@
 
     <div class="footer-logo-container">
       <div class="footer-line">Apoio/Support</div>
-      <a href="https://www.fordfoundation.org/" target="_blank">
-        <div class="footer-line parceira-logo" style="background-image: url('{{ site.baseurl }}/media/images/logos/ford_black.svg');"></div>
-      </a>
+        <div class="logo-row">
+          <a href="https://www.fordfoundation.org/" target="_blank">
+            <div class="footer-line parceira-logo logo-column" style="background-image: url('{{ site.baseurl }}/media/images/logos/ford_black.svg');"></div>
+           </a>
+         <a href="https://serrapilheira.org/" target="_blank">
+            <div class="footer-line parceira-logo logo-column" style="background-image: url('{{ site.baseurl }}/media/images/logos/serrapilheira.png');"></div>
+          </a>
+          <a href="https://www.artscouncil.org.uk/" target="_blank">
+            <div class="footer-line parceira-logo logo-column" style="background-image: url('{{ site.baseurl }}/media/images/logos/arts_council.png');"></div>
+          </a>
+          <a href="https://southamerica.prohelvetia.org/pt/" target="_blank">
+            <div class="footer-line parceira-logo logo-column" style="background-image: url('{{ site.baseurl }}/media/images/logos/prohelvetia.png');"></div>
+          </a>
+        </div>
     </div>
   </div>
 {% endif %}

@@ -1,12 +1,22 @@
-function showMenu() {
-  document.getElementById('menu-retratil').classList.remove("menu-hide");
-  document.getElementById('menu-retratil').classList.add("menu-show");
+function showMenuSilo() {
+  document.getElementById('menu').classList.remove("menu-hide-silo");
+  document.getElementById('menu').classList.add("menu-show-silo");
+
+  document.getElementById('menu-button').classList.remove("fa-chevron-down");
+  document.getElementById('menu-button').classList.add("fa-chevron-up");
+  document.getElementById('menu-button').onclick = hideMenuSilo;
 }
 
-function hideMenu() {
-  document.getElementById('menu-retratil').classList.remove("menu-show");
-  document.getElementById('menu-retratil').classList.add("menu-hide");
+function hideMenuSilo() {
+  document.getElementById('menu').classList.remove("menu-show-silo");
+  document.getElementById('menu').classList.add("menu-hide-silo");
+
+  document.getElementById('menu-button').classList.remove("fa-chevron-up");
+  document.getElementById('menu-button').classList.add("fa-chevron-down");
+  document.getElementById('menu-button').onclick = showMenuSilo;
 }
 
-document.getElementById('show-menu').onclick = showMenu;
-document.getElementById('hide-menu').onclick = hideMenu;
+document.getElementById('menu-button').onclick = showMenuSilo;
+
+
+

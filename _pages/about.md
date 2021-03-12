@@ -1,19 +1,23 @@
 ---
 layout: post
-title: About
+title: Publications
 permalink: /about/
 cover: media/images/2018/serrinha.jpg
 ---
-Esta residência propôs um estudo estético da resiliência em suas diferentes formas aplicada à pessoa, ambiente, animal ou coisa. Por meio desta chamada aberta convidamos artistas das áreas de Arte da Performance e Arte Sonora.
+<br>
 
-A residência ocorreu em 2017 e 2018 em zona rural localizada na Área de Proteção Ambiental da Serrinha do Alambari, RJ - Brasil - e nos espaços que a circundam: reservas ambientais, comunidades rurais e polo industrial.
+### 2018 Residency Catalog | Catálogo Residência 2018
 
-São curadores da residencia: Cinthia Mendonça e Andreas Trobollowitsch
+[Baixe aqui _ Download here](../media/docs/Resiliencia_Residencia_2018.pdf){:target="_blank"} our 2018 publication
+<br><br><br><br>
+  
+---
 
-![]({{ site.baseurl }}/media/images/2018/serrinha.jpg)
+<br><br>
+  
+### 2017 | Residency Catalog | Catálogo Residência
 
-The residency proposes a esthetic study of resilience in its different forms applied to people, environment, animal or thing. Through this call, we invited artists for Performance Art and Sound Art.
+[Baixe aqui _ Download here](../media/docs/Resiliencia_Residencia_2018.pdf){:target="_blank"} our 2017 publication
 
-The residence took place in 2017 and 2018 in a rural zone located in the Environmental Protection Area of Serrinha do Alambari, RJ - Brazil - and in the spaces that surround it: environmental reserves, rural communities and industrial zones.
 
-Cinthia Mendonça and Andreas Trobollowitsch are the curators
+<br><br><br><br>

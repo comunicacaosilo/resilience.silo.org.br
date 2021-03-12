@@ -27,3 +27,4 @@ He overcomes the separation of art forms and genres with an integrated creative 
 Interaction in Yang’s work takes place not just in objective reality, but also inside of intimate experience and imaginative projection. These includes traveling among such varied subjects as brain function, facial expression, micro/macro realities, virtual time-space, starlight, apocalypse, and the beginning of the Universe.
 
 [aloisyang.com](http://aloisyang.com/){:target="_blank"}
+

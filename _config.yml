@@ -4,6 +4,7 @@ title: "Resiliência: Residência Artística"
 # URL
 url: https://resilience.silo.org.br
 baseurl: ''
+silo_url: https://silo.org.br
 permalink: :title/
 include: ['_pages']
 
@@ -38,7 +39,7 @@ social:
   soundcloud: ""
   tumblr: ""
   pinterest: ""
-  envelope-o: "mailto:resilience.residence@silo.org.br"
+  envelope-o: "mailto:contato@silo.org.br"
 twitter_user: "SiloLatitude"
 
 # prose.io

@@ -4,8 +4,9 @@
     {% include head.html %}
     {% include meta.html %}
   </head>
-  <body>
+  <body id=post>
     {% include menu-mobile.html %}
+    {% include menu.html %}
     <div class="main-div">
       <div class="content-container">
         <a href="{{ site.baseurl }}/">
@@ -25,6 +26,7 @@
               {% include swipebox.html prefix=page.swipebox %}
             {% endif %}
             {% include share.html %}
+              <br><br><br><br><br><br><br><br><br><br><br>
           </div>
         </div>
       </div>
