@@ -695,6 +695,10 @@ background-color: $COLOR1;
         color: #262626 !important;
         width:22%;
       margin-right:3%;
+        @media screen and (max-width: 800px)  {
+        width:47%;
+        margin-right:3%;
+      }
     }
   @media screen and (max-width: 660px)  {
         bottom:0;
