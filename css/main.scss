@@ -400,16 +400,18 @@ background-color: $COLOR1;
   letter-spacing: -1px;
   text-transform: uppercase;
   text-decoration: none;
-  color: $MENU-TEXT-COLOR;
+  color: #262626;
   cursor: pointer;
-  transition: color $TRANSITION-PERIOD linear;
-    @media screen and (min-width: 800px) {
-    padding-left: 50px;
     line-height: 80px;
+  transition: color $TRANSITION-PERIOD linear;
+  @media screen and (min-width: 800px) {
+    color: #262626;
+    padding-left: 50px;
     }
+
     
   &:visited {
-    color: $MENU-TEXT-COLOR;
+    color: #262626;
   }
 
   &:hover {
