@@ -436,6 +436,7 @@ background-color: $COLOR1;
   display: flex;
   flex-direction: column;
   width: 100%;
+  height: 15vh;
 
   @include media-query(DESKTOP) {
     flex-direction: row;
@@ -445,21 +446,27 @@ background-color: $COLOR1;
 }
 
 .home-logo-2 {
-  width: 100%;
+  width: 20%;
   box-sizing: border-box;
-  margin: 0 16px 0 0;
+  margin: 10px 10px 0 0;
   padding: 0;
   border: 0;
-  background-image: url('{{ site.baseurl }}/media/images/logos/resilience_H.png');
+  height: 10%;
+  background-image: url('{{ site.baseurl }}/media/images/logos/resilience_V.png');
   background-position: left bottom;
   background-repeat: no-repeat;
   background-size: contain;
+  position: absolute;
+  top: 20px;
+  right: 0px;
 
   @include media-query(DESKTOP) {
     width: 10%;
     height: 100%;
+    left: 0;
     background-image: url('{{ site.baseurl }}/media/images/logos/resilience_V.png');
     background-position: center bottom;
+    margin: 0 16px 0 0;
   }
 }
 
