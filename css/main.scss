@@ -121,7 +121,7 @@ hr {
     margin: 0 auto;
   }
 
-  @include media-query(DESKTOP) {
+  @media screen and (min-width: 800px)  {
     display: none;
   }
 }
@@ -129,14 +129,14 @@ hr {
 
 .menu-hide {
   left: -100vw;
-  @include media-query(DESKTOP) {
+  @media screen and (min-width: 800px)  {
     left: 0;
   }
 }
 
 .menu-hide-silo {
   left: -100vw;
-  @include media-query(DESKTOP) {
+  @media screen and (min-width: 800px)  {
     left: 0;
     top: -155px;
   }
@@ -147,7 +147,7 @@ hr {
 }
 .menu-show-silo {
   left: 0;
-  @include media-query(DESKTOP) {
+  @media screen and (min-width: 800px)  {
     top: 0;
   }
 }
@@ -173,7 +173,7 @@ hr {
   background-size: contain;
   background-position: center;
   margin-bottom: 10px;
-  @include media-query(DESKTOP) {
+  @media screen and (min-width: 800px)  {
     margin-bottom: 0;
   }
 }
@@ -187,7 +187,7 @@ hr {
   margin: 0;
   padding-top: 1em;
 
-  @include media-query(DESKTOP) {
+  @media screen and (min-width: 800px)  {
     display: flex;
   }
 
@@ -223,7 +223,7 @@ hr {
   margin: 0 auto;
   display: none;
 
-  @include media-query(DESKTOP) {
+ @media screen and (min-width: 800px)  {
     width: 100%;
     display: flex;
     flex-direction: row;
@@ -269,7 +269,7 @@ hr {
   display: inline;
   line-height: 40px;
 
-  @include media-query(DESKTOP) {
+  @media screen and (min-width: 800px)  {
     font-size: $MENU-ITEM-SIZE;
   }
 
@@ -290,7 +290,7 @@ hr {
   text-transform: none;
   display: inline;
 
-  @include media-query(DESKTOP) {
+  @media screen and (min-width: 800px)  {
     font-size: $MENU-ITEM-SIZE;
   }
 
@@ -320,7 +320,7 @@ hr {
   box-sizing: border-box;
   margin: $RESPONSIVE-SPACING auto;
 
-  @include media-query(DESKTOP) {
+ @media screen and (min-width: 800px)  {
     width: 80%;
     margin: $RESPONSIVE-SPACING auto;
   }
@@ -329,10 +329,10 @@ hr {
 .content-container {
   width: 100%;
   margin: 0 auto;
-  @media screen and (max-width: 1100px)  {
+  @media screen and (max-width: 800px)  {
     min-height: 1100px;   
   }
-  @media screen and (max-width: 500px)  {
+  @media screen and (max-width: 800px)  {
     min-height: 500px;   
   }
 }
@@ -344,7 +344,8 @@ background-color: $COLOR1;
 #home{
 background-image: url('{{ site.baseurl }}/media/images/background_index.png');
 color: #262626 !important;
-@media screen and (min-width: 1100px)  {
+background-position: right top;
+@media screen and (min-width: 800px)  {
     background-size: 100%;
     background-position: center top;
     background-repeat: no-repeat;
@@ -365,7 +366,7 @@ color: #262626 !important;
 
 #post {
 background-color: $COLOR1;
-    @media screen and (min-width: 1100px)  {
+    @media screen and (min-width: 800px)  {
         background-image: url('{{ site.baseurl }}/media/images/background_post.png');
         background-size: 100%;
         background-repeat: no-repeat;
@@ -375,20 +376,23 @@ background-color: $COLOR1;
 
 .content-home{
     position: absolute;
-    top: 60%;
-    right: 0;
-    padding: 30px;
-    width: 40%;
+    color: $COLOR1; 
     height: auto;
     background-color: #262626;
-    color: $COLOR1;  
+    padding: 30px;
+    
+    @media screen and (min-width: 800px)  {
+        bottom: 100px;
+        right: 0;
+        width: 40%;
+    }
     @media screen and (max-width: 800px)  {
         position: absolute;
-        top: 20% !important;
         left: 5% !important;
         width: 80%;
     }
 }
+
 .home-menu {
   width: 100%;
   margin: 10px 0;
@@ -402,7 +406,7 @@ background-color: $COLOR1;
   text-decoration: none;
   color: #262626;
   cursor: pointer;
-    line-height: 80px;
+  line-height: 80px;
   transition: color $TRANSITION-PERIOD linear;
   @media screen and (min-width: 800px) {
     color: #262626;
@@ -438,7 +442,7 @@ background-color: $COLOR1;
   width: 100%;
   height: 15vh;
 
-  @include media-query(DESKTOP) {
+  @media screen and (min-width: 800px) {
     flex-direction: row;
     flex-wrap: nowrap;
     height: 15vh;
@@ -513,7 +517,7 @@ background-color: $COLOR1;
   background-repeat: no-repeat;
   background-size: contain;
 
-  @include media-query(DESKTOP) {
+  @media screen and (min-width: 800px) {
     width: 90%;
     height: 100%;
     margin: 0;
@@ -699,14 +703,14 @@ background-color: $COLOR1;
         color: #262626 !important;
         width:22%;
       margin-right:3%;
-        @media screen and (max-width: 800px)  {
+      @media screen and (max-width: 800px)  {
         width:47%;
         margin-right:3%;
       }
     }
   @media screen and (max-width: 800px)  {
         bottom:0;
-    }
+  }
 }
 
 .footer-line {
