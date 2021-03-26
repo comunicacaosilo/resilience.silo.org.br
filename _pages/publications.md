@@ -15,9 +15,10 @@ cover: media/images/2018/serrinha.jpg
 ---
 
 <br><br>
+
+### 2017 | Residency Catalog | Catálogo Residência
 ![]({{ site.baseurl }}/media/images/catalogo2017.jpg)
 <br><br>
-### 2017 | Residency Catalog | Catálogo Residência
 
 [Baixe aqui _ Download here](https://silo.org.br/media/docs/resiliencia-residencia-BAIXA.pdf){:target="_blank"} our 2017 publication
 
