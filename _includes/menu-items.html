@@ -1,4 +1,10 @@
-<a class="home-menu-item" href="{{ site.baseurl }}/publications/">Publicações</a>
+{% case page.lang %}
+        {% when 'en' %}
+        <a class="home-menu-item" href="{{ site.baseurl }}/en/publications/">Publications</a>
+        {% else %}
+        <a class="home-menu-item" href="{{ site.baseurl }}/publications/">Publicações</a>
+{% endcase %}
+
 {% assign currentYear = "" %}
 
 {% for post in site.posts %}
@@ -14,8 +20,14 @@
         <div class="menu-section">
           <ul>
     {% assign currentYear = postYear %}
-  {% endif %}
+  {% endif %}       
+        {% if post.lang contains 'en' and page.lang contains 'en'%}
             <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+        {% if post.lang contains 'pt' and page.lang contains 'pt'%}
+            <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+              
 {% endfor %}
       </ul>
   </div>

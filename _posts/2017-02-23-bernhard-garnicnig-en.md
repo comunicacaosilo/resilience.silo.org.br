@@ -2,7 +2,7 @@
 title: 'Bernhard Garnicnig'
 cover: media/images/2017/bernhard00.jpg
 ref: bernhard
-lang: pt
+lang: en
 ---
 Bernhard Garnicnig vive e trabalha em Viena, Áustria (1983). Co-fundador e curador da Bregenz Biennale, co-editor fundador do [continentcontinent.cc](http://continentcontinent.cc){:target="_blank"} e "very artistic director" do Palais des Beaux Arts Wien, Bernhard faz uso do institucional como prática artística, está interessado em estruturas de convivência e tenta sinceramente fazer coisas paradoxais funcionarem para ver o que acontece.
 bernhard@continentcontinent.cc

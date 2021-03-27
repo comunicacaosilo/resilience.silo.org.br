@@ -1,7 +1,8 @@
 ---
 title: 'José Oliveira'
 ref: jose
-lang: pt
+permalink: /en/jose-oliveira/
+lang: en
 ---
 
 <br>

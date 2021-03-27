@@ -3,20 +3,26 @@
   <head>
     {% include head.html %}
     {% include meta.html %}
+    {% include language-selection.html %}
   </head>
-  <body>
+  <body id=home>
+    {% include menu-mobile.html %}
+    {% include menu.html %}
     <div class="main-div">
       <div class="content-container">
+        <div class="home-images-2">
+          <div class="home-logo-2"></div></div>
+        
         <div class="home-menu">
-          <a class="home-menu-item" href="{{ site.baseurl }}/about/">Sobre</a>
         </div>
-        <div class="home-images">
-          <div class="home-logo"></div>
-          <div class="home-cover"></div>
+        <div class="menu">
+            <br>
+            <br>
+            {% include menu-items.html %}
         </div>
-        <div class="home-residents-menu">
-          {% include menu-items.html %}
-        </div>
+          <div class="content-home">
+                {{ content }}
+          </div>
       </div>
     </div>
     {% include footer.html %}

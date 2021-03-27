@@ -1,6 +1,8 @@
 ---
 title: 'Leandro César'
 cover: media/images/2018/leandro03.jpg
+ref: leandro
+lang: pt
 ---
 permitir se perder, se lançar no abismo  
 escalar o mistério, o misterioso  

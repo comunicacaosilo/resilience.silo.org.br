@@ -1,6 +1,8 @@
 ---
 title: 'Carolina Nobrega'
 cover: media/images/2018/carolina01.jpg
+ref: carolina
+lang: pt
 ---
 Há não sei mais se uma contradição. Talvez seja algo como um objeto de cerâmica que cai e que se quebra em diversas partes. Essas partes não se fragmentam, mas se mantém coladas por um esmalte já meio velho e gosmento, e esse objeto continua a exisitir no mundo, carregando suas partes decaídas.
 

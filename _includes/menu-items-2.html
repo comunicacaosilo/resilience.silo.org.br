@@ -1,32 +1,62 @@
 <div class="menu-section">
   <ul>
-      <li><a href="{{ site.silo_url }}/sobre/" target="_blank">
-        sobre
-      </a></li>
-      <li><a href="{{ site.silo_url }}/quem-somos/" target="_blank">
-        quem somos
-      </a></li>
-      <li><a href="{{ site.silo_url }}/noticias/" target="_blank">
-        notícias
-      </a></li>
+      {% case page.lang %}
+        {% when 'en' %}
+          <li><a href="{{ site.silo_url }}/about/" target="_blank">
+            about
+          </a></li>
+          <li><a href="{{ site.silo_url }}/who-we-are/" target="_blank">
+            who we are
+          </a></li>
+          <li><a href="{{ site.silo_url }}/news/" target="_blank">
+            news
+          </a></li>
+      {% else %}
+          <li><a href="{{ site.silo_url }}/sobre/" target="_blank">
+            sobre
+          </a></li>
+          <li><a href="{{ site.silo_url }}/quem-somos/" target="_blank">
+            quem somos
+          </a></li>
+          <li><a href="{{ site.silo_url }}/noticias/" target="_blank">
+            notícias
+          </a></li>
+{% endcase %}
   </ul>
 </div>
 <div class="menu-section">
   <ul>
-      <li><a href="{{ site.silo_url }}/caipiratechlab/" target="_blank">
-        caipiraTech
-      </a></li>
-      <li><a href="{{ site.silo_url }}/encontrada/" target="_blank">
-        encontrada
-      </a></li>
-      <li><a href="{{ site.silo_url }}/interactivos/" target="_blank">
-        interactivos?
-      </a></li>
-      <li><a href="{{ site.silo_url }}/residencia/" target="_blank">
-        residência
-      </a></li>
+      {% case page.lang %}
+        {% when 'en' %}
+          <li><a href="{{ site.silo_url }}/en/caipiratechlab/" target="_blank">
+            caipiraTechlab
+          </a></li>
+          <li><a href="{{ site.silo_url }}/en/encontrada/" target="_blank">
+            encontrada
+          </a></li>
+          <li><a href="{{ site.silo_url }}/en/residencia/" target="_blank">
+            residency
+          </a></li>
+          <li><a href="{{ site.silo_url }}/en/labs/" target="_blank">
+            labs
+          </a></li>
+      {% else %}
+          <li><a href="{{ site.silo_url }}/caipiratechlab/" target="_blank">
+            caipiraTechlab
+          </a></li>
+          <li><a href="{{ site.silo_url }}/encontrada/" target="_blank">
+            encontrada
+          </a></li>
+          <li><a href="{{ site.silo_url }}/residencia/" target="_blank">
+            residência
+          </a></li>
+          <li><a href="{{ site.silo_url }}/labs/" target="_blank">
+            laboratórios
+          </a></li>
+{% endcase %}
   </ul>
 </div>
 <div class="menu-section">
+    <br>
   {% include social-icons.html %}
 </div>

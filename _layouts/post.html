@@ -3,13 +3,19 @@
   <head>
     {% include head.html %}
     {% include meta.html %}
+    {% include language-selection.html %}
   </head>
   <body id=post>
     {% include menu-mobile.html %}
     {% include menu.html %}
     <div class="main-div">
       <div class="content-container">
-        <a href="{{ site.baseurl }}/">
+          {% case page.lang %}
+                {% when 'en' %}
+                    <a href="{{ site.baseurl }}/en/">
+                {% else %}
+                        <a href="{{ site.baseurl }}/">
+          {% endcase %}
           <div class="post-logo">
             {% if page.path contains '_posts' or true %}
               <div class="post-title">{{ page.title }}</div>

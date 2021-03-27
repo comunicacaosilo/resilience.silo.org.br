@@ -1,6 +1,8 @@
 ---
 title: 'Aloïs Yang'
 cover: media/images/2018/aloys00.jpg
+ref: alois
+lang: pt
 ---
 **"Micro Loop Macro Cycle - in 13:15s & 1145 mb"**
 
@@ -8,15 +10,15 @@ cover: media/images/2018/aloys00.jpg
   <iframe width="800" height="450" src="https://www.youtube.com/embed/41uyLnsP0Ec?rel=0&modestbranding=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
-“Micro Loop Macro Cycle” is a series of installation, video, and performance, that investigates environmental cycle system through studies of different states of water. Sound is the primary material of this project, also as the communicational medium that reveals comprehensive sonic information about the dynamic states of present time and space. 
-
-Water, the most comment substance on Earth, which carries life and exist almost in every biogeochemical cycle systems, for this reason, water is highly connected to the surrounding conditions: from large scale environmental changes to molecular scale like: energy waves and chemical substance. Through these notions and observations of water, it allows us to gain insights on systematic interactions, and provide measurement and connection that indicate our relationship with the nature.
-
-The focal point of this project is to present how a tiny event – a drop of water, or a crackle sound form a melting ice in a given cycle system, creates feedback loops that eventually can be seen as the whole. And also how every aspect inside the system is interconnected, and capable of revealing the bigger picture by its own. 
-
-Through bespoke software and sound design, the hidden soundscape within a given field of water is being captured from the microphone inside the ice, and amplified with the two speakers holding by the performer. As the ice melt through time, due to the various condition of the environment, the sound mirrors this natural process by rendering ever-changing sonic images. 
-
-The performer reveals these unpredictable and unique outcomes through his body movement in relation to space: as moving the speaker’s position around the ice creates a multi-dimensional soundscape, which illustrates the spacial picture in dynamic perspectives, and time: as an micro event is feed back into the field of cycle system, which eventually is developed to a sonic feedback loop that describes the fragmental moment of the reality. These properties of the interaction engage the performer’s state of mind extensively being at the present time-space, hence, embody himself into the cycle system. 
+“Micro Loop Macro Cycle” é uma série de instalações, vídeos e perfor- mance que investiga o sistema cíclico ambiental por meio do estudos de diferentes estados da água. O som é o material principal desse projeto, e também o meio de comunicação que revela informações sônicas abrangentes sobre os estados dinâmicos do tempo e do espaço atuais.
+  
+A água é a substância mais comum na Terra, que carrega vida e existe quase em todos os sistemas do ciclo biogeoquímico. Por isso, ela está altamente conectada às condições do entorno: desde mudanças ambientais de grande escala até escalas moleculares como ondas de energia e substâncias químicas. Essas noções e observações de água nos permitem obter insights sobre interações sistemáticas e fornecer medidas e conexões que indiquem nossa relação com a natureza.
+  
+O ponto focal desse projeto é apresentar de que forma um evento minúsculo – uma gota d'água, ou um estalo de um derretimento de gelo em um determinado sistema de ciclo – cria um fluxo de feedbacks que podem ser vistos como um todo. E também apresentar como cada aspecto dentro do sistema está interconectado e é capaz de, sozinho, revelar um quadro maior.
+  
+Por meio de software personalizado e design de som, a paisagem sonora escondida dentro de um determinado campo de água está sendo capturada com o microfone dentro do gelo, e amplificada com dois alto-falantes segurando pelo artista. Como o gelo derrete aos poucos, devido às várias condições do ambiente, o som espelha esse processo natural, produzindo imagens sonoras que mudam constantemente.
+  
+O performer revela esses resultados imprevisíveis e únicos por meio de seu movimento corporal em relação ao espaço: já que mover a posição dos alto-falantes em torno do gelo cria uma paisagem sonora multidi- mensional, que ilustra a imagem espacial em perspectivas dinâmicas e tempo; já que um micro evento é realimentado dentro do campo do sistema de ciclo, que eventualmente é desenvolvido para um loop de feedback sonoro que descreve o momento fragmentário da realidade. Essas propriedades da interação afetam o estado de espírito do artista de forma extensiva no tempo-espaço presente que, portanto, é incor- porado ao sistema do ciclo. 
 
 {% include swipebox.html prefix="2018/aloys" %}
 

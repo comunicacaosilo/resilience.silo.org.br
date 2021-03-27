@@ -2,9 +2,9 @@
 title: 'Lena Reisner'
 cover: media/images/2018/lena01.jpg
 ref: lena
-lang: pt
+permalink: /en/lena-reisner/
+lang: en
 ---
-
 **The Generosity of a Plant to Drop its Leaves: an Exercise in Curating Decay** derives from the observation, that plants are generous in giving away both their ripe fruits and their brown leaves. However, while the value of ripe fruits for mammals and human cultures is obvious, the importance of brown leaves for composting, its contribution to the forest ecosystem is often forgotten.
 
 The site specific installation consists of leaves of banana trees, palm trees, bromelia and fern arranged on discarded bedsteads and furniture found in the abandoned Top Club buliding. With the building in disrepair, and the leaves decomposing, the work investigates di erent forms of decay, materiality and productivity.

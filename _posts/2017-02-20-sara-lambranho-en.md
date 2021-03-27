@@ -2,7 +2,7 @@
 title: 'Sara Lambranho'
 cover: media/images/2017/sara00.jpg
 ref: lambranho
-lang: pt
+lang: en
 ---
 ## entre dois
 

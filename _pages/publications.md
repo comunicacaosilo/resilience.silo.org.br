@@ -2,25 +2,27 @@
 layout: post
 title: Publications
 permalink: /publications/
+ref: publications
+lang: pt
 cover: media/images/2018/serrinha.jpg
 ---
 <br>
 
-### 2018 Residency Catalog | Catálogo Residência 2018
+### Catálogo Residência 2018
 ![]({{ site.baseurl }}/media/images/catalogo2018.jpg)
 <br><br>
-[Baixe aqui _ Download here](../media/docs/Resiliencia_Residencia_2018.pdf){:target="_blank"} our 2018 publication
+[Baixe aqui](../media/docs/Resiliencia_Residencia_2018.pdf){:target="_blank"} a publicação de 2018
 <br><br><br><br>
   
 ---
 
 <br><br>
 
-### 2017 | Residency Catalog | Catálogo Residência
+### Catálogo Residência 2017
 ![]({{ site.baseurl }}/media/images/catalogo2017.jpg)
 <br><br>
 
-[Baixe aqui _ Download here](https://silo.org.br/media/docs/resiliencia-residencia-BAIXA.pdf){:target="_blank"} our 2017 publication
+[Baixe aqui](https://silo.org.br/media/docs/resiliencia-residencia-BAIXA.pdf){:target="_blank"} a publicação de 2017 
 
 
 <br><br><br><br>

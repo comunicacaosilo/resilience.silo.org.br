@@ -2,7 +2,7 @@
 title: 'Violeta Pavão'
 cover: media/images/2017/violeta01.jpg
 ref: violeta
-lang: pt
+lang: en
 ---
 violeta é bicho-gente-matéria-cor-energia em caminhada que tem hora que cala, tem hora que fala, tem vez que chora, tem vez que caga ; tem tentado é ouvir mais e falar menos. mas nao pisa no calo, nao, buceta radioativa ataca.
 

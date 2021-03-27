@@ -1,6 +1,8 @@
 ---
-layout: home2
+layout: home
 title: "Resiliência: Residência Artística"
+ref: home
+lang: pt
 permalink: /
 ---
 

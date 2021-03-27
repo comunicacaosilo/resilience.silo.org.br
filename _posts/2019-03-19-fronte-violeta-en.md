@@ -2,7 +2,7 @@
 title: 'Fronte Violeta'
 cover: media/images/2019/fronte-violeta.jpg
 ref: fronte
-lang: pt
+lang: en
 ---
  
 **Fronte Violeta** é um projeto de música experimental eletrônica criado por Anelena Toku e Carla Boregas. Possuem dois álbuns Travessias (2016) e Flama (2018). Alguns dos eventos que participaram foram: oficina e performance 'Notação Floral' no Sesc Vila Mariana (2019), MEAV - Música Eletrônica ao vivo na Virada Cultural (2018), A Onda Errada (2018), Falas - mulheres em performance (2018) e Vela Preta (2016). Em 2017, foram convidadas do SOMSOCOSMOS, residência artística que propõe a produção em campo expandido e um encontro da música com a arte sonora. Contribuíram com a sonorização da exposição 'Pain Chrisantemo' da artista Chihiro Yoshikawa, exibida em Tóquio, Los Angeles e São Paulo e produziram a intervenção sonora Fita Demo 5' na exposição 'Não temos condições de responder à todos' (2019) de Alexandre Cruz (Sesper). Participaram da composição e produção da dramaturgia sonora para a peça 'Revolta Lilith' (2018) e produção musical para a peça Ròzá (2019), ambas dirigidas por Martha Kiss Perrone. Em 2019, foram colaboradoras do Interactivos?'19, laboratório de experimentação e educação científica realizado pela Silo Arte e Latitude Rural. Em 2019 junto a Juliana R idealizaram o espaço de criação Auta em São Paulo.

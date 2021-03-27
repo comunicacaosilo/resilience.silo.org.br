@@ -2,7 +2,7 @@
 title: 'Pierre Fonseca'
 cover: media/images/2017/pierre01b.jpg
 ref: pierre
-lang: pt
+lang: en
 ---
 Pierre Fonseca, 1981, é um Artista visual brasileiro e pesquisador Livre, formado pela Escola de Belas Artes UFMG. Desenvolve trabalhos e ações transdisciplinares entre os campos expandidos das artes, música, educação, política, tecnologia, ciências sociais e biológicas. Um dos Criadores e gestor da residência artística ENCOMODO pela EBA/UFMG 2009-2012. Foi ganhador do prêmio de Residência Artística CCULT UFMG 2012. No ano seguinte é selecionado como artista residente da quinta edição do programa Bolsa Pampulha BH 2013/¬2014, Participa do Programa de Residência Internacional J.A.C.A. Belo Horizonte em 2014, no mesmo ano participa do Prêmio REDE Nacional Funarte Artes Visuais - 11° edição com o projeto Ervanaria Móvel. Em 2015 participa da exposição internacional CRU - Comida, Transformação e Arte no CCBB Brasília. É professor convidado do curso de engenharia aeroespacial UFMG e também criador e gestor do laboratório MEDULA¬LAB que desenvolve pesquisas e produções transdisciplinares entre arte, ciências e tecnologia pela Escola de Engenharia/UFMG 2010-2017.
 
