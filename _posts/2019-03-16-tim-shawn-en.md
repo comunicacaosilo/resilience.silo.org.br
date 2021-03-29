@@ -1,5 +1,5 @@
 ---
-title: 'Tim Shawn'
+title: 'Tim Shaw'
 cover: media/images/2019/tim.jpg
 permalink: /en/tim-shawn/
 ref: tim
