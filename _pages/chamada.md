@@ -22,10 +22,10 @@ A residência oferece um ambiente propício para a troca de saberes entre artist
 
 As inscrições para a residência serão feitas exclusivamente através do email: **contato@silo.org.br**. No assunto do email deve constar: **Inscrição - Resiliência: Residência Artística**. O email deve conter **1 arquivo em formato PDF** com:
 
-* proposta artística ou proposta científica
-* plano de trabalho, desenhos, esquemas e etc (imagens e texto máx. 3 páginas A4) 
-* portfólio ou currículo ou informações sobre a pesquisa científica incluindo dados pessoais e contato (nome, endereço, nacionalidade, data de nascimento, email, telefone) 
-* link da homepage e demais referências, caso houver. 
+* - Proposta artística ou proposta científica
+* - Plano de trabalho, desenhos, esquemas e etc (imagens e texto máx. 3 páginas A4) 
+* - Portfólio ou currículo ou informações sobre a pesquisa científica incluindo dados pessoais e contato (nome, endereço, nacionalidade, data de nascimento, email, telefone) 
+* - Link da homepage e demais referências, caso houver. 
 
 **Prazo limite para as inscrições: 30 de julho de 2021.** 
  
@@ -36,9 +36,9 @@ As inscrições para a residência serão feitas exclusivamente através do emai
  <br>
  
 ## Condições
-A residência ocorrerá entre os dias 22 de agosto e 12 de setembro de 2021. Cada selecionada/o receberá: passagens - ida e volta - de seu local de origem, alojamento privado ou compartilhado com uma pessoa, estúdios compartilhados, alimentação gratuita e a quantia de R$2.000,00. Nossas instalações são amplas e arejadas. 
+A residência ocorrerá entre os dias **22 de agosto e 12 de setembro de 2021**. Cada selecionada/o receberá: passagens - ida e volta - de seu local de origem, alojamento privado ou compartilhado com uma pessoa, estúdios compartilhados, alimentação gratuita e a quantia de **R$2.000,00**. Nossas instalações são amplas e arejadas. 
 
-A residência é composta por expedições na região da APA da Serrinha do Alambari e no Parque do Itatiaia e participação na Silo Escola, um espaço de troca de aprendizagem com a comunidade local e demais interessados. 
+A residência é composta por expedições na região da APA da **Serrinha do Alambari** e no **Parque do Itatiaia** e participação na **Silo Escola**, um espaço de troca de aprendizagem com a comunidade local e demais interessados. 
 
 No final da residência realizamos uma mostra com as pesquisas, processos e trabalhos desenvolvidos. Após a residência será realizada uma publicação com a documentação do processo e resultado dos trabalhos desenvolvidos.
  
