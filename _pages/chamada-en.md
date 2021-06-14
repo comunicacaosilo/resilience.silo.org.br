@@ -2,7 +2,7 @@
 layout: post
 title: Open Call
 permalink: /open-call/
-ref: opencall
+ref: opencall2021
 lang: en
 cover: media/images/2018/serrinha.jpg
 ---

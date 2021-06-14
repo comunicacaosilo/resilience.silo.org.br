@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Convocatória Aberta
-permalink: /convocatoria-aberta/
-ref: opencall
+title: Chamada Aberta
+permalink: /chamada-aberta/
+ref: opencall2021
 lang: pt
 cover: media/images/2018/serrinha.jpg
 ---
@@ -11,7 +11,7 @@ cover: media/images/2018/serrinha.jpg
 # Resiliência: Residência Artística 2021
 ## Arte e Ciência 
 
-Por meio desta chamada convidamos artistas, curadores e cientistas interessados em Arte e Ciência para se inscreverem na Resiliência: Residência Artística que ocorrerá entre **22 de agosto e 12 de setembro de 2021**.
+Por meio desta chamada convidamos **artistas, curadores e cientistas** interessados em Arte e Ciência para se inscreverem na **Resiliência: Residência Artística** que ocorrerá entre **22 de agosto e 12 de setembro de 2021**.
 
 Nessa edição a residência acolherá artistas, curadores e cientistas interessados em desenvolver seus trabalhos em espaços rurais e/ou de natureza exuberante. A Resiliência: Residência Artística ocorrerá fora dos laboratórios de ciência e dos ateliers de arte, em território de Mata Atlântica, na Área de Proteção Ambiental da Serrinha do Alambari e no Planalto do Parque Nacional do Itatiaia, localizado a 2.791 metros de altitude.
 
@@ -20,9 +20,12 @@ Nesse ambiente, artistas e curadores interessados em pesquisar e dispostos a dia
 A residência oferece um ambiente propício para a troca de saberes entre artistas e cientistas propondo, de um lado que a ciência possa se transformar a partir das referências e modos de pensar e fazer da arte e, de outro que, a arte possa ter voz ativa no debate de questões científicas com grande impacto da sociedade. Apesar de viverem, muitas vezes, em universos diferentes, de usarem linguagens e abordagens diversas e de possuírem processos criativos e de resolução de problemas distintos, artistas e cientistas podem se beneficiar muito com um compartilhamento mútuo de experiências e olhares, sobretudo se tiverem a oportunidade de compartilharem um espaço de pesquisa e de trabalho que seja uma terceira margem para ambos. Nesse sentido, estabelecendo pontes entre diferentes saberes e promovendo o diálogo entre múltiplos, a Resiliência: Residência Artística também visa contribuir para uma maior aproximação e um diálogo mais rico entre ciência, arte e sociedade.  
 
 
-As inscrições para a residência serão feitas exclusivamente através do email: contato@silo.org.br. No assunto do email deve constar: Inscrição - Resiliência: Residência Artística. O email deve conter 1 arquivo em formato PDF com:
+As inscrições para a residência serão feitas exclusivamente através do email: **contato@silo.org.br**. No assunto do email deve constar: **Inscrição - Resiliência: Residência Artística**. O email deve conter **1 arquivo em formato PDF** com:
 
-proposta artística ou proposta científica, plano de trabalho, desenhos, esquemas e etc (imagens e texto máx. 3 páginas A4) + portfólio ou currículo ou informações sobre a pesquisa científica incluindo dados pessoais e contato (nome, endereço, nacionalidade, data de nascimento, email, telefone) + link da homepage e demais referências, caso houver. 
+* proposta artística ou proposta científica
+* plano de trabalho, desenhos, esquemas e etc (imagens e texto máx. 3 páginas A4) 
+* portfólio ou currículo ou informações sobre a pesquisa científica incluindo dados pessoais e contato (nome, endereço, nacionalidade, data de nascimento, email, telefone) 
+* link da homepage e demais referências, caso houver. 
 
 **Prazo limite para as inscrições: 30 de julho de 2021.** 
  
@@ -65,8 +68,8 @@ O Planalto do Itatiaia está localizado dentro do território do Parque Nacional
 Após a seleção, a Silo - Arte e Latitude Rural disponibilizará um protocolo de segurança sanitária que deverá ser seguido para que as/os participantes possam viajar e permanecer em nossas instalações com segurança, mitigando os riscos de transmissão da Covid 19.
 
 
-**Realização: Silo – Arte e Latitude Rural**
-**Apoio: Instituto Serrapilheira** 
+**Realização:** Silo – Arte e Latitude Rural
+**Apoio:** Instituto Serrapilheira
 
 
 contato@silo.org.br                                                                                     
