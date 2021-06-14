@@ -11,7 +11,7 @@ cover: media/images/2018/serrinha.jpg
 # Resiliência: Residência Artística 2021
 ## Arte e Ciência 
 
-Por meio desta chamada convidamos artistas, curadores e cientistas interessados em Arte e Ciência para se inscreverem na Resiliência: Residência Artística que ocorrerá entre 22 de agosto e 12 de setembro de 2021
+Por meio desta chamada convidamos artistas, curadores e cientistas interessados em Arte e Ciência para se inscreverem na Resiliência: Residência Artística que ocorrerá entre **22 de agosto e 12 de setembro de 2021**.
 
 Nessa edição a residência acolherá artistas, curadores e cientistas interessados em desenvolver seus trabalhos em espaços rurais e/ou de natureza exuberante. A Resiliência: Residência Artística ocorrerá fora dos laboratórios de ciência e dos ateliers de arte, em território de Mata Atlântica, na Área de Proteção Ambiental da Serrinha do Alambari e no Planalto do Parque Nacional do Itatiaia, localizado a 2.791 metros de altitude.
 
@@ -24,8 +24,14 @@ As inscrições para a residência serão feitas exclusivamente através do emai
 
 proposta artística ou proposta científica, plano de trabalho, desenhos, esquemas e etc (imagens e texto máx. 3 páginas A4) + portfólio ou currículo ou informações sobre a pesquisa científica incluindo dados pessoais e contato (nome, endereço, nacionalidade, data de nascimento, email, telefone) + link da homepage e demais referências, caso houver. 
 
-* Prazo limite para as inscrições: 30 de julho de 2021. * 
-
+**Prazo limite para as inscrições: 30 de julho de 2021.** 
+ 
+ <br> 
+ 
+ ---
+ 
+ <br>
+ 
 ## Condições
 A residência ocorrerá entre os dias 22 de agosto e 12 de setembro de 2021. Cada selecionada/o receberá: passagens - ida e volta - de seu local de origem, alojamento privado ou compartilhado com uma pessoa, estúdios compartilhados, alimentação gratuita e a quantia de R$2.000,00. Nossas instalações são amplas e arejadas. 
 
@@ -59,12 +65,12 @@ O Planalto do Itatiaia está localizado dentro do território do Parque Nacional
 Após a seleção, a Silo - Arte e Latitude Rural disponibilizará um protocolo de segurança sanitária que deverá ser seguido para que as/os participantes possam viajar e permanecer em nossas instalações com segurança, mitigando os riscos de transmissão da Covid 19.
 
 
-* Realização: Silo – Arte e Latitude Rural *
-* Apoio: Instituto Serrapilheira * 
+**Realização: Silo – Arte e Latitude Rural**
+**Apoio: Instituto Serrapilheira** 
 
 
 contato@silo.org.br                                                                                     
-+55 21 98108 7115 
+**+55 21 98108 7115** 
 
 
 <br><br><br><br>
