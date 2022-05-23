@@ -656,6 +656,13 @@ background-color: $COLOR1;
   padding-left: 0px;
   }
 }
+@media screen and (min-width: 800px) {
+.post-content {
+  min-height: 900px;
+  }
+}
+
+
 
 .post-two-columns {
   width: 100%;
