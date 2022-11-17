@@ -3,6 +3,7 @@ title: 'Adriana Alves'
 cover: media/images/2021/adriana.jpg
 ref: adrianaalves
 lang: en
+swipebox: 2021/Adriana
 ---
 
 **Adriana Alves** is a geologist and Ph.D. in geosciences from USP (University of São Paulo) where she also had her postdoctoral degree. She studies the Paraná-Etendeka Magmatic Province (PMP), the result of a large volcanic eruption over 134 million years ago which marks the beginning of the Atlantic’s Ocean formation at the territory known today as Brazil.
