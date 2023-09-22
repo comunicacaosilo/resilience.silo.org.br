@@ -622,10 +622,11 @@ background-color: $COLOR1;
   font: 900 $TITLE-SIZE $FONT-TITLE;
   color: $COLOR2;
   line-height: 1;
-  text-align: left;
+  text-align: right;
   text-transform: uppercase;
   bottom: 16px;
   right: 0;
+  width: 210px;
 }
 
 .post-content-container {
